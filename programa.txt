@@ -1,0 +1,9 @@
+inicio-programa
+ciclo 2
+up 2
+ciclo 4
+down 1
+fin-ciclo
+left 2
+fin-ciclo
+fin-programa
